@@ -1,0 +1,176 @@
+body {
+    line-height: 1.4;
+    font-family: 'PT Serif', serif;
+    font-size: 1em;
+    margin: 0px;
+}
+
+header,th{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+}
+
+h1,h2,h3,h4,h5,h6{
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.15);
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+h1{
+    font-size: 32px;
+}
+
+h2{
+    font-size: 28px;
+}
+
+h3{
+    font-size: 24px;
+}
+
+h4{
+    font-size: 20px;
+}
+
+h5{
+    font-size: 16px;
+}
+
+h6 {
+    font-size: 12px;
+}
+
+p{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+table{
+   border: 1px solid black;
+   
+}
+
+ul, ol {
+    margin-bottom: 16px;
+    margin-top: 8px;
+    margin-left: 32px;  
+}
+
+img{
+    display: block;
+    max-height: 150px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    min-width: 40px;
+    border: 1px solid black;
+    
+}
+
+header{
+    background-color: black;
+}
+
+
+#clientPic{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 50%;
+}
+
+.header_li{
+    list-style: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
+
+.header_li:hover{
+    color:black;
+    background-color: white;
+    transition: background-color 500ms linear;
+}
+
+a{
+  color: #00008b; 
+}
+
+a:hover{
+    color: #000080;
+    text-decoration: none;
+}
+
+.header_links{
+    text-decoration: none;
+}
+
+.header_links:hover{
+    text-decoration: none;
+}
+
+.seperate{
+    height: 1px;
+    background-color: white;
+}
+
+.head_list{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}  
+
+.main_body{
+    background-color: white;
+    border: 20px solid #ddd;
+    padding: 20px 20px 40px 20px;
+}   
+
+thead, tfoot{
+    background-color: #f1f1f1;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+#highlighted_Text{
+    display: block;
+    background-color: #f1f1f1;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.center_text{
+    text-align: center;
+}
+
+.footer{
+   background-color: black;
+   padding: 20px 20px 20px 20px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
